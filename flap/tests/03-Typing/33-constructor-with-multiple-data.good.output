@@ -1,0 +1,7 @@
+Line 3, characters 28-40: Error (typechecking)
+  Type error:
+Expected:
+  ipair
+Given:
+  int -> (int -> ipair)
+

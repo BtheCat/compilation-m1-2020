@@ -1,0 +1,7 @@
+Line 5, characters 22-33: Error (typechecking)
+  Type error:
+Expected:
+  option
+Given:
+  string -> option
+
